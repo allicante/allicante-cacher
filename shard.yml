@@ -1,0 +1,14 @@
+name: allicante-cacher
+version: 0.1.0
+
+authors:
+  - Jens Reidel <jens@troet.org>
+  - Dominic Harris <dominic@mail.dominiquecat.com>
+
+targets:
+  allicante-cacher:
+    main: src/allicante-cacher.cr
+
+crystal: 0.34.0
+
+license: AGPL-3.0
